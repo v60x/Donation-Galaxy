@@ -1,5 +1,7 @@
 ### Donation Galaxy Compiled
-*This is a more public release of every game that is owned by the Donation Galaxy group.*
-
-`This compile was created during an era in which I had backdoored the game due to the owner, Cherry Blossom, being a known predatory figure within Roblox's donation game scene.`
 `Please note that all webhook loggers/backdoor systems have been removed, as well as their HD Admin, Ban APIs, etc. but their sources will be posted as well.`
+
+This compile was created during the time Cherry Blossom, the owner of the group (who is also a known predatory figure) had granted a lot of people studio access like crazy.
+Though this isn't the first time her games have been leaked, this is a more extensive leak beyond a Roblox group I have used to host these files, but I said screw it we're going on here to github!
+
+All assets within this repository are of fair use and I do not own anything that belongs to Quataun or any other asset creators.
