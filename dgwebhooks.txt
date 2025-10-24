@@ -1,0 +1,8 @@
+Donation Galaxy webhooks.
+these were probably changed as i started to spam them and they didn't like that :(
+
+https://webhook.lewisakura.moe/api/webhooks/1257156030865866782/OEW9QEwGmGJIaj5_zW4uFL-AtrSkKuzSPkDZRsNgne3-vKufzQOO-V0LSqwYBzmdW9gF
+https://discord.com/api/webhooks/1325151466171797514/lt6mBEmkeWUAMzNvGoydQYW40KkjQ84F7uPAWFb2STQHlQoPFlSXcIwmcNBZydnXDVmm
+https://discord.com/api/webhooks/1327381596420050974/grPsexRwWVFwdVPww1TwuSeLNFNuW4N9SBG-Q2-FZKufH3UnatnvTUyL6ucKdM9s3yO-
+https://discord.com/api/webhooks/1337670740064993290/4Bs6BVeJXww6NnPIwHhTKMJMl9lWR66StX1EQyxfBX4MpZYj_FBFOQLntsWtZ__7Rji_
+https://discord.com/api/webhooks/1337670512616411176/MpdHaOdZkPdnxWhvpNFgkKkaIMhla3BVMDbZDOVuk962DOpo2xd3jSqvqiffs1yreyRx
